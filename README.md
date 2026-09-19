@@ -8,6 +8,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 19-09-2026
 
 **Today's Work:**
+- Completed Week 5 / Session 5 Class Problems on Java Arrays & Methods (HackathonScoreCurveBooster, DuplicateTeamNameFinder, TopThreePodiumFinder, HackathonSeatingGridOptimizer, PlacementDriveRankingEngine).
+- Completed Week 5 / Session 5 Assignment Problems on Java Arrays & Methods (FantasyTeamScoreMultiplier, DuplicatePlayerPickChecker, TopPerformerTracker, MatchDayGridAnalyzer, FantasyLeagueAutoDraftRankingEngine).
+- Verified compilation and test outputs for all 10 Java programs.
+- Pushed branch feature/session_5 to remote.
+
+**Next Session Plan:**
+- Begin Week 6 / Session 6 topics and problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
 - Completed Week 4 / Session 4 Class Problems on Functions & Arrays (TwoSum, BestTimeToBuyAndSellStock, ContainsDuplicate, MergeTwoSortedArrays, RotateArray).
 - Completed Week 4 / Session 4 Assignment Problems on Functions & Arrays (ProductOfArrayExceptSelf, MaximumSubarray, ThreeSum, SubarraySumEqualsK, FindMinimumInRotatedSortedArray).
 - Verified compilation and test outputs for all 10 Array programs.
