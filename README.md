@@ -5,6 +5,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 **Student Name:** G.Santhosh  
 **Registration Number:** RA2511026011104  
 
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Week 4 / Session 4 Class Problems on Functions & Arrays (TwoSum, BestTimeToBuyAndSellStock, ContainsDuplicate, MergeTwoSortedArrays, RotateArray).
+- Completed Week 4 / Session 4 Assignment Problems on Functions & Arrays (ProductOfArrayExceptSelf, MaximumSubarray, ThreeSum, SubarraySumEqualsK, FindMinimumInRotatedSortedArray).
+- Verified compilation and test outputs for all 10 Array programs.
+- Pushed branch feature/session_4 to remote.
+
+**Next Session Plan:**
+- Begin Week 5 / Session 5 topics and problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-09-2026
 
 **Today's Work:**
