@@ -8,6 +8,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 19-09-2026
 
 **Today's Work:**
+- Completed Week 6 / Session 6 Class Problems on Inheritance, Polymorphism & Defensive Copying (LibraryMember, StudentMember, FacultyMember, HonorsStudentMember).
+- Completed Week 6 / Session 6 Assignment Problems on Inheritance, Polymorphism & Defensive Copying (GymMember, PremiumMember, EliteMember, GroupClassMember).
+- Verified compilation and test outputs for all 8 OOP programs.
+- Pushed branch feature/session_6 to remote.
+
+**Next Session Plan:**
+- Begin Week 7 / Session 7 topics and problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
 - Completed Week 5 / Session 5 Class Problems on Java Arrays & Methods (HackathonScoreCurveBooster, DuplicateTeamNameFinder, TopThreePodiumFinder, HackathonSeatingGridOptimizer, PlacementDriveRankingEngine).
 - Completed Week 5 / Session 5 Assignment Problems on Java Arrays & Methods (FantasyTeamScoreMultiplier, DuplicatePlayerPickChecker, TopPerformerTracker, MatchDayGridAnalyzer, FantasyLeagueAutoDraftRankingEngine).
 - Verified compilation and test outputs for all 10 Java programs.
