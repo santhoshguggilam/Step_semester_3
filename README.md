@@ -5,6 +5,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 **Student Name:** G.Santhosh  
 **Registration Number:** RA2511026011104  
 
+## Date: 27-09-2026
+
+**Today's Work:**
+- Completed Week 7 / Session 7 Class Practice Problems on Encapsulation & Access Control (PiggyBank, Scorecard, NameTag, Locker, AttendanceSheet).
+- Completed Week 7 / Session 7 Assignment Problems on Encapsulation & Access Control (Character, Playlist, PasswordChecker, TrafficLight, Cart).
+- Verified compilation and test outputs for all 10 Java programs.
+- Pushed branch feature/session_7 to remote.
+
+**Next Session Plan:**
+- Begin Week 8 / Session 8 topics and problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 19-09-2026
 
 **Today's Work:**
