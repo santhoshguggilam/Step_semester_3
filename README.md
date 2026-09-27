@@ -8,6 +8,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 27-09-2026
 
 **Today's Work:**
+- Completed Week 8 / Session 8 Class Practice Problems on Polymorphism & Dynamic Dispatch (PaymentSystemFeeCalculator, LibraryItemDueDateCalculator, DeliveryFeeCalculator, ExaminationQuestionGrader, PublicTransportFareCalculator).
+- Completed Week 8 / Session 8 Assignment Problems on Polymorphism & Dynamic Dispatch (CanteenBillingCounter, CampusParkingChargeCalculator, HostelElectricityBill, FestivalBonusCalculator, StreamingPlanRenewalReminder).
+- Verified compilation and test outputs for all 10 Java programs.
+- Pushed branch feature/session_8 to remote.
+
+**Next Session Plan:**
+- Begin Week 9 / Session 9 topics and problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 27-09-2026
+
+**Today's Work:**
 - Completed Week 7 / Session 7 Class Practice Problems on Encapsulation & Access Control (PiggyBank, Scorecard, NameTag, Locker, AttendanceSheet).
 - Completed Week 7 / Session 7 Assignment Problems on Encapsulation & Access Control (Character, Playlist, PasswordChecker, TrafficLight, Cart).
 - Verified compilation and test outputs for all 10 Java programs.
