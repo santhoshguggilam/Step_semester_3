@@ -5,6 +5,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 **Student Name:** G.Santhosh  
 **Registration Number:** RA2511026011104  
 
+## Date: 03-10-2026
+
+**Today's Work:**
+- Completed Week 9 / Session 9 Class Practice Problems on Abstraction & Interfaces (GardenPlotAreaReport, WeeklyStaffPay, LibraryLateFineCounter, ElectricityConnectionBilling, TravelBookingCommonFee).
+- Completed Week 9 / Session 9 Assignment Problems on Abstraction & Interfaces (MovieTicketCounter, ParcelShippingDesk, CollegeFeeCounter, CityCabFareMeter, HomeApplianceEnergyReport).
+- Verified compilation and test outputs for all 10 Java programs.
+- Pushed branch feature/session_9 to remote.
+
+**Next Session Plan:**
+- Begin Week 10 / Session 10 topics and problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 27-09-2026
 
 **Today's Work:**
