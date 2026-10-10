@@ -8,9 +8,9 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 10-10-2026
 
 **Today's Work:**
-- Completed Week 10 / Session 10 Class Practice Problems on Array Algorithms & Binary Search (ExamScoreBandCounter, ClassAttendanceTracker, SecondBestScore).
-- Completed Week 10 / Session 10 Assignment Problems on Array Rotation & Grid Processing (DutyRosterRotation, BusiestBusRow).
-- Verified compilation and test outputs for all 5 Java programs.
+- Completed Week 10 / Session 10 Class Practice Problems on Array Algorithms, Strings & Data Structures (ExamScoreBandCounter, ClassAttendanceTracker, SecondBestScore, VowelConsonantCounter, WordReverserPalindrome, EvenOddCounter, InPlaceArrayReversal, DigitSumReversal).
+- Completed Week 10 / Session 10 Assignment Problems on Array Rotation, Grid & Core Logic (DutyRosterRotation, BusiestBusRow, PrimeNumberChecker, FactorialCalculator, StudentGradeAssignment, LeapYearDetector, StudentResultCardGenerator).
+- Verified compilation and test outputs for all 15 Java programs.
 - Pushed branch feature/session_10 to remote.
 
 **Next Session Plan:**
