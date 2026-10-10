@@ -5,6 +5,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 **Student Name:** G.Santhosh  
 **Registration Number:** RA2511026011104  
 
+## Date: 10-10-2026
+
+**Today's Work:**
+- Completed Week 10 / Session 10 Class Practice Problems on Array Algorithms & Binary Search (ExamScoreBandCounter, ClassAttendanceTracker, SecondBestScore).
+- Completed Week 10 / Session 10 Assignment Problems on Array Rotation & Grid Processing (DutyRosterRotation, BusiestBusRow).
+- Verified compilation and test outputs for all 5 Java programs.
+- Pushed branch feature/session_10 to remote.
+
+**Next Session Plan:**
+- Begin Week 11 / Session 11 topics and problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 03-10-2026
 
 **Today's Work:**
